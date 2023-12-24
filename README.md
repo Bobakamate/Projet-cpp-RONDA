@@ -27,12 +27,9 @@ Expliquez comment installer votre jeu, y compris les dépendances et les étapes
 
 ## Comment Compiler
 
-Indiquez comment compiler votre jeu à partir du code source.
+Il suffit de télécharger le Repository et de cliquer sur RONDA.exe. 
 
-## Contributions
+## Realiser par 
+KAMATE Boba fousseiny
+CHARAAJ  Zakariaa  
 
-Indiquez si vous acceptez les contributions et comment les personnes intéressées peuvent les soumettre.
-
-## Licence
-
-Indiquez la licence sous laquelle votre projet est publié. (par exemple, MIT, GPL, Apache, etc.)
