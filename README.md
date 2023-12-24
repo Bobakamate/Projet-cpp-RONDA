@@ -26,7 +26,11 @@ Le gagnant du jeu est celui des joueurs qui a le plus de points à la fin de la 
 Il suffit de télécharger le Repository et de cliquer sur RONDA.exe. 
 
 ## Realiser par 
-CHARRAJ  Zakariaa et 
-KAMATE Boba fousseiny
+### CHARRAJ Zakariaa
+ - OOP
+ - Doc de ce Projet
+
+### KAMATE Boba fousseiny
+ - FrontEnd de ce Projet
 
 
