@@ -23,7 +23,7 @@ Le gagnant du jeu est celui des joueurs qui a le plus de points à la fin de la 
 
 ## Comment Installer
 
-Il suffit de télécharger le Repository et de cliquer sur RONDA.exe. 
+Il suffit de télécharger le Repository et de cliquer sur RONDA.exe ou ouvrir le dossier code source du jeu/RONDA et charger le fichier CMakeLists.txt sur QT. 
 
 ## Realiser par 
 ### CHARRAJ Zakariaa
