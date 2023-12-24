@@ -1,0 +1,26 @@
+Au cours de la réalisation de notre projet, nous avons été confrontés à une série de défis variés, chacun représentant une étape importante dans notre parcours de développement. Voici une liste détaillée des différents problèmes auxquels nous avons été confrontés :
+
+1.Logique de l'Image en Qt et Utilisation des Chemins Relatifs :
+La gestion de la logique des images en Qt a posé des défis, notamment la transition de l'utilisation de chemins absolus vers l'adoption de chemins relatifs. Cette décision a nécessité une compréhension approfondie de la manière dont Qt interagit avec les images et comment optimiser l'utilisation de chemins relatifs pour assurer une portabilité plus efficace du projet.
+
+2.Abandon de la Séparation de Projet en C++ et CMake :
+La séparation initiale du projet en parties distinctes, entre le code en C++ et les pages en CMake, a été abandonnée en raison de problèmes liés aux types de variables entre Qt et les types normaux (int, double, boolean, etc.). Cette intégration a nécessité des ajustements pour assurer la cohérence et la compatibilité entre les différents éléments du projet.
+
+3.Problème de Trouver des Ressources pour le Projet :
+La recherche de ressources adéquates pour mener à bien notre projet a posé un défi majeur. La disponibilité limitée de certaines informations a nécessité une exploration approfondie pour trouver des références pertinentes et des exemples pratiques adaptés à nos besoins spécifiques.
+
+4.Problèmes avec les Versions de Qt et Bibliothèques Supprimées :
+Les variations entre les versions de Qt ont entraîné des problèmes, notamment la suppression de certaines bibliothèques essentielles. Cette contrainte a demandé une adaptation constante pour maintenir la compatibilité du projet avec les versions de Qt les plus récentes tout en conservant les fonctionnalités nécessaires.
+
+5.Réflexion sur les Bonnes Pratiques d'Animation avec les Widgets de Qt :
+La recherche de méthodes efficaces pour créer des animations attrayantes avec les widgets de Qt a représenté un défi important. Explorer les bonnes pratiques et optimiser l'utilisation des fonctionnalités d'animation de Qt a demandé une compréhension approfondie de ces concepts.
+
+6.Adaptation des Concepts OOP dans le Projet :
+Plusieurs décisions liées à la programmation orientée objet (OOP) ont été revisitées. Des fonctions telles que "Refresh()" ont été abandonnées au profit de nouvelles idées intégrant les fonctionnalités natives de Qt. La gestion de l'ouverture du contenu d'une classe sur la même page sans fermer la page actuelle a été repensée. De plus, la création d'une classe Animation a été abandonnée au profit de fonctions globales liées à l'animation des cartes.
+
+En résumé, chacun de ces défis a constitué une opportunité d'apprentissage et d'adaptation au sein de notre équipe de développement. Ces ajustements et prises de décision stratégiques ont non seulement renforcé notre compréhension de Qt, mais ont également contribué à l'amélioration globale de notre projet.
+
+
+
+
+
