@@ -23,13 +23,9 @@ Le gagnant du jeu est celui des joueurs qui a le plus de points à la fin de la 
 
 ## Comment Installer
 
-Expliquez comment installer votre jeu, y compris les dépendances et les étapes spécifiques.
-
-## Comment Compiler
-
 Il suffit de télécharger le Repository et de cliquer sur RONDA.exe. 
 
 ## Realiser par 
-KAMATE Boba fousseiny
+KAMATE Boba fousseiny et 
 CHARAAJ  Zakariaa  
 
